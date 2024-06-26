@@ -1,4 +1,4 @@
-This is a auth system developed with OOP (Object Oriented Programming)
+## This is a auth system developed with OOP (Object Oriented Programming)
 
 How can i use it?
 
